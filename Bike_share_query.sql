@@ -22,7 +22,7 @@ From bike_share_yr_0
 Union
 Select * 
 From bike_share_yr_1)
--- Both the tables merged & named as cte for joins
+-- Both the tables merged & expressed as cte for joins
 
 Select * 
 From cte
